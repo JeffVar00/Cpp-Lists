@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1537373597 source:c:\users\cristopher\desktop\lista circular\main.cpp
+	<iostream>
+	"lista.h"
+
+1537373259 c:\users\cristopher\desktop\lista circular\include\nodo.h
+	<iostream>
+
+1537373316 source:c:\users\cristopher\desktop\lista circular\src\nodo.cpp
+	"nodo.h"
+
+1537373661 c:\users\cristopher\desktop\lista circular\include\lista.h
+	"nodo.h"
+
+1537373661 source:c:\users\cristopher\desktop\lista circular\src\lista.cpp
+	"lista.h"
+
+1537373759 source:c:\users\cristopher\google drive\universidad\2020\ii ciclo 2020\estructuras de datos\semana 3\clase #3\lista circular\main.cpp
+	<iostream>
+	"lista.h"
+
+1537373661 c:\users\cristopher\google drive\universidad\2020\ii ciclo 2020\estructuras de datos\semana 3\clase #3\lista circular\include\lista.h
+	"nodo.h"
+
+1537373259 c:\users\cristopher\google drive\universidad\2020\ii ciclo 2020\estructuras de datos\semana 3\clase #3\lista circular\include\nodo.h
+	<iostream>
+
+1537373661 source:c:\users\cristopher\google drive\universidad\2020\ii ciclo 2020\estructuras de datos\semana 3\clase #3\lista circular\src\lista.cpp
+	"lista.h"
+
+1537373316 source:c:\users\cristopher\google drive\universidad\2020\ii ciclo 2020\estructuras de datos\semana 3\clase #3\lista circular\src\nodo.cpp
+	"nodo.h"
+
+1537373759 source:c:\users\cristopher\google drive\universidad\2021\carrera\ii ciclo 2021\estructuras de datos\semana 5\lista circular\main.cpp
+	<iostream>
+	"lista.h"
+
+1633019547 c:\users\cristopher\google drive\universidad\2021\carrera\ii ciclo 2021\estructuras de datos\semana 5\lista circular\include\lista.h
+	"nodo.h"
+
+1537373259 c:\users\cristopher\google drive\universidad\2021\carrera\ii ciclo 2021\estructuras de datos\semana 5\lista circular\include\nodo.h
+	<iostream>
+
+1633019547 source:c:\users\cristopher\google drive\universidad\2021\carrera\ii ciclo 2021\estructuras de datos\semana 5\lista circular\src\lista.cpp
+	"lista.h"
+
+1633019547 source:c:\users\cristopher\google drive\universidad\2021\carrera\ii ciclo 2021\estructuras de datos\semana 5\lista circular\src\nodo.cpp
+	"nodo.h"
+

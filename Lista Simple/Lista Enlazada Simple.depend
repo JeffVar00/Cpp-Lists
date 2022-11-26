@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1344864610 source:d:\rafael\u ii semestre 2012\estructuras de datos\clase #3\lista simple\main.cpp
+	<iostream>
+
+1344864612 source:c:\users\ugit-pc02\google drive\universidad\ii ciclo 2017\estructuras de datos\planeacion\clase #3\lista simple\main.cpp
+	<iostream>
+
+1537372396 source:c:\users\cristopher\google drive\universidad\ii ciclo 2018\estructuras de datos\semana 8\clase #3\lista simple\main.cpp
+	<iostream>
+
+1537370659 source:c:\users\cristopher\google drive\universidad\ii ciclo 2018\estructuras de datos\semana 8\clase #3\lista simple\src\nodo.cpp
+
+1537370732 source:c:\users\cristopher\google drive\universidad\ii ciclo 2018\estructuras de datos\semana 8\clase #3\lista simple\src\lista.cpp
+
+1537372993 source:c:\users\cristopher\desktop\lista simple\src\nodo.cpp
+	"nodo.h"
+
+1537372750 source:c:\users\cristopher\desktop\lista simple\main.cpp
+	<iostream>
+	"lista.h"
+
+1537372867 c:\users\cristopher\desktop\lista simple\include\lista.h
+	"nodo.h"
+
+1537373032 c:\users\cristopher\desktop\lista simple\include\nodo.h
+	<iostream>
+
+1537372867 source:c:\users\cristopher\desktop\lista simple\src\lista.cpp
+	"lista.h"
+
+1537372750 source:c:\users\cristopher\google drive\universidad\2020\ii ciclo 2020\estructuras de datos\semana 3\clase #3\lista simple\main.cpp
+	<iostream>
+	"lista.h"
+
+1537372867 c:\users\cristopher\google drive\universidad\2020\ii ciclo 2020\estructuras de datos\semana 3\clase #3\lista simple\include\lista.h
+	"nodo.h"
+
+1537373032 c:\users\cristopher\google drive\universidad\2020\ii ciclo 2020\estructuras de datos\semana 3\clase #3\lista simple\include\nodo.h
+	<iostream>
+
+1537372867 source:c:\users\cristopher\google drive\universidad\2020\ii ciclo 2020\estructuras de datos\semana 3\clase #3\lista simple\src\lista.cpp
+	"lista.h"
+
+1537372993 source:c:\users\cristopher\google drive\universidad\2020\ii ciclo 2020\estructuras de datos\semana 3\clase #3\lista simple\src\nodo.cpp
+	"nodo.h"
+

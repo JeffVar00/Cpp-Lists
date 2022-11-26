@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1537374345 source:c:\users\cristopher\desktop\lista doble\main.cpp
+	<iostream>
+	"lista.h"
+
+1537374649 c:\users\cristopher\desktop\lista doble\include\lista.h
+	"nodo.h"
+
+1537375383 c:\users\cristopher\desktop\lista doble\include\nodo.h
+	<iostream>
+
+1537375204 source:c:\users\cristopher\desktop\lista doble\src\lista.cpp
+	"lista.h"
+
+1537375204 source:c:\users\cristopher\desktop\lista doble\src\nodo.cpp
+
+1537375204 source:c:\users\cristopher\google drive\universidad\2020\ii ciclo 2020\estructuras de datos\semana 3\clase #3\lista doble\src\lista.cpp
+	"lista.h"
+
+1537374649 c:\users\cristopher\google drive\universidad\2020\ii ciclo 2020\estructuras de datos\semana 3\clase #3\lista doble\include\lista.h
+	"nodo.h"
+
+1537375383 c:\users\cristopher\google drive\universidad\2020\ii ciclo 2020\estructuras de datos\semana 3\clase #3\lista doble\include\nodo.h
+	<iostream>
+
+1537375204 source:c:\users\cristopher\google drive\universidad\2020\ii ciclo 2020\estructuras de datos\semana 3\clase #3\lista doble\src\nodo.cpp
+
+1597950218 source:c:\users\cristopher\google drive\universidad\2020\ii ciclo 2020\estructuras de datos\semana 3\clase #3\lista doble\main.cpp
+	<iostream>
+	"lista.h"
+
+1537375204 source:c:\users\cristopher\google drive\universidad\2021\carrera\ii ciclo 2021\estructuras de datos\semana 5\lista doble\src\lista.cpp
+	"lista.h"
+
+1537374649 c:\users\cristopher\google drive\universidad\2021\carrera\ii ciclo 2021\estructuras de datos\semana 5\lista doble\include\lista.h
+	"nodo.h"
+
+1537375383 c:\users\cristopher\google drive\universidad\2021\carrera\ii ciclo 2021\estructuras de datos\semana 5\lista doble\include\nodo.h
+	<iostream>
+
+1537375204 source:c:\users\cristopher\google drive\universidad\2021\carrera\ii ciclo 2021\estructuras de datos\semana 5\lista doble\src\nodo.cpp
+
